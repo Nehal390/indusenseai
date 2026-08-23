@@ -1,0 +1,6 @@
+{
+  "name": "InduSense AI — Industrial Product Intelligence",
+  "description": "An enterprise AI platform transforming raw industrial product catalogs and messy CSV/XLSX spreadsheets into structured, searchable, and actionable product intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
